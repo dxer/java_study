@@ -26,6 +26,13 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+/**
+ * XDom 使用java自带的api封装的一个处理xml文件的类
+ * 
+ * @author dxer
+ * @class XDom
+ * 
+ */
 public class XDom {
 
 	private Element e;
